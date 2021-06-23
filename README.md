@@ -30,7 +30,7 @@ The tests are in the "Tests" directory, except for the file TestUtils that only 
 # Project architecture
 
 ## Directories
-- Controllers : Le projet API par défaut d'AspNetCore fonctionne sur un modèle MVC, ce dossier regroupe donc tous les controleurs du projet. Un seul actuellement, puisqu'il n'y a qu'un endpoint.
+- Controllers : The default AspNetCore API project works on a MVC model, this folder contains all the project's controllers. For this project there's only one endpoint, hence only one controller.
 
 - Core : Contains most of the "active" code, not designed to discuss with the outer world.
 
